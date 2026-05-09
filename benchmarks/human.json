@@ -1,0 +1,62 @@
+[
+    {
+        "Maya": "(Maya)",
+        "Leo": "(Leo)",
+        "Iris": "(Iris)",
+        "Noah": "(Noah)"
+    },
+    {
+        "Maya-Hart": "Maya Hart",
+        "Leo-Stone": "Leo Stone",
+        "Iris-Vale": "Iris Vale",
+        "Noah-Reed": "Noah Reed"
+    },
+    {
+        "Maya": "M",
+        "Leo": "L",
+        "Iris": "I",
+        "Noah": "N"
+    },
+    {
+        "Yamaha400": "Yam",
+        "Kawasaki650": "Kaw",
+        "Suzuki250": "Suz",
+        "Triumph900": "Tri"
+    },
+    {
+        "Rio": "3",
+        "Lima": "4",
+        "Paris": "5",
+        "London": "6"
+    },
+    {
+        "Pie": "4",
+        "Cake": "5",
+        "Bread": "6",
+        "Cookie": "7"
+    },
+    {
+        "Red": "2",
+        "Blue": "3",
+        "Green": "4",
+        "Yellow": "5"
+    },
+    {
+        "1cats": "2",
+        "5birds": "6",
+        "3fish": "4",
+        "2dogs": "3"
+    },
+    {
+        "abc-def": "3",
+        "ab-cdef": "2",
+        "abcd-ef": "4",
+        "a-bcdef": "1"
+    },
+    {
+        "Hi": "Hi(2)",
+        "Hello": "Hello(5)",
+        "Hey": "Hey(3)",
+        "World": "World(5)"
+    }
+]
